@@ -1,0 +1,10 @@
+sourceDir = "/Users/carlos/work-dir/dotfiles"
+
+[source]
+  prefix = ""
+
+[dotfiles]
+  exact = true
+
+[data]
+  zshPlugins = []
